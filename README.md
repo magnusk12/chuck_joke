@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/magnusk12/chuck_joke.svg)(https://travis-ci.org/magnusk12/chuck_joke)
+[![Build Status](https://travis-ci.org/magnusk12/chuck_joke.png)(https://travis-ci.org/magnusk12/chuck_joke)
 
 
 # chuck_joke
